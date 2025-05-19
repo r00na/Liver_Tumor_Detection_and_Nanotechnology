@@ -41,7 +41,7 @@ This project detects liver tumors from MRI scans using YOLOv8 and recommends opt
 ![Detection Result 1](images/detection1.png)
 
 ### 🔹 Final Mapping Output
-![Nanoparticle Result](images/fresult.png)
+![Nanoparticle Result](images/fresult.jpg)
 
 
 ## 🚀 Technologies Used
